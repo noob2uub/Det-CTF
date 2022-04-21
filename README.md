@@ -73,6 +73,8 @@ https://www.vulnhub.com/entry/funbox-under-construction,715/
 Buffer Overflow
 https://samsclass.info/127/proj/lbuf1.htm
 
+https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf
+
 Journey to Try Harder
 https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
 
