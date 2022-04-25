@@ -87,3 +87,5 @@ https://github.com/gchq/CyberChef
 
 https://github.com/GTFOBins/GTFOBins.github.io
 
+https://github.com/DominicBreuker/pspy
+
