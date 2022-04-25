@@ -87,5 +87,8 @@ https://github.com/gchq/CyberChef
 
 https://github.com/GTFOBins/GTFOBins.github.io
 
+### Tools for Image
 https://github.com/DominicBreuker/pspy
+
+https://github.com/Seabreg/pwdump
 
